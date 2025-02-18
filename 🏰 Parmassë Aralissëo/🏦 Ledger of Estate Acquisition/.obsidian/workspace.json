@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "584de138289e200b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9df726c018e981b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "673dbb014946baa0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Property DMA Masterclass/01 Foundation/Section A/05 Iceberg Model.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05 Iceberg Model"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "095aff0d1beaa85c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac02f4ae09fae340",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4086a4ba4d40cd70",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9a62513bb377c488",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d49e5d585b421469",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 268.5
+  },
+  "right": {
+    "id": "a6f78d1b7e09724f",
+    "type": "split",
+    "children": [
+      {
+        "id": "aeba70c262e015a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29c76eccc29db5f0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Property DMA/01 Foundation/Section A/05 Iceberg Model.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 05 Iceberg Model"
+            }
+          },
+          {
+            "id": "e53b49da596e305b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "ebd5127e364cc990",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "435d8e64e53402a0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Property DMA Masterclass/01 Foundation/Section A/05 Iceberg Model.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 05 Iceberg Model"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 269.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4086a4ba4d40cd70",
+  "lastOpenFiles": [
+    "Property DMA Masterclass/01 Foundation/Section A/04 Deal-Making Framework.md",
+    "Property DMA Masterclass/01 Foundation/Section A/05 Iceberg Model.md",
+    "Property DMA Masterclass/01 Foundation/Section A/03 The 3 Rules.md",
+    "Property DMA Masterclass/01 Foundation/Section A/02 Why UK Strategies.md",
+    "Property DMA Masterclass/01 Foundation/Section A/01 What is Deal-Making.md",
+    "Property DMA Masterclass/01 Foundation/Section A",
+    "Property DMA Masterclass/Outline.md",
+    "Property DMA Masterclass/01 Foundation",
+    "Property DMA Masterclass"
+  ]
+}
