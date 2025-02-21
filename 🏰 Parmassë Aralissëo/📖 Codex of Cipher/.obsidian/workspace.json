@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚 Data & Programming/🌟 Stage 1 - Programming & Data Fundamentals/01 Introduction to Data Engineering/Course Overview & Outline.md",
-                "mode": "source",
+                "file": "📚 Data & Programming/Stage 1 - Data Fundamentals/4 - The Data Scientist’s Toolbox/Module 1/Reflective Summary.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Course Overview & Outline"
+              "title": "Reflective Summary"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚 Data & Programming/🌟 Stage 1 - Programming & Data Fundamentals/01 Introduction to Data Engineering/Course Overview & Outline.md",
+                "file": "📚 Data & Programming/Stage 1 - Data Fundamentals/4 - The Data Scientist’s Toolbox/Module 1/Reflective Summary.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Course Overview & Outline"
+              "title": "Outline of Reflective Summary"
             }
           }
         ],
@@ -170,22 +170,26 @@
   },
   "active": "457a81a231c60ed4",
   "lastOpenFiles": [
-    "📚 Data & Programming/🌟 Stage 1 - Programming & Data Fundamentals/01 Introduction to Data Engineering/Module 1/Section 2.md",
-    "📚 Data & Programming/🌟 Stage 1 - Programming & Data Fundamentals/01 Introduction to Data Engineering/Module 1/Section 1.md",
-    "📚 Data & Programming/🌟 Stage 1 - Programming & Data Fundamentals/01 Introduction to Data Engineering/Module 1/Module Summary.md",
-    "📚 Data & Programming/🌟 Stage 1 - Programming & Data Fundamentals/01 Introduction to Data Engineering/Module 1/Module Overview.md",
-    "📚 Data & Programming/🌟 Stage 1 - Programming & Data Fundamentals/01 Introduction to Data Engineering/Course Overview & Outline.md",
-    "📚 Data & Programming/🌟 Stage 1 - Programming & Data Fundamentals/01 Introduction to Data Engineering/Module 1",
-    "📚 Data & Programming/🌟 Stage 1 - Programming & Data Fundamentals/02 Introduction to Data Analytics/Module 1/Section 2.md",
-    "📚 Data & Programming/🌟 Stage 1 - Programming & Data Fundamentals/02 Introduction to Data Analytics/Module 1/Module Summary (PH).md",
-    "📚 Data & Programming/🌟 Stage 1 - Programming & Data Fundamentals/02 Introduction to Data Analytics/Module 1/Module Summary.md",
-    "📚 Data & Programming/🌟 Stage 1 - Programming & Data Fundamentals/02 Introduction to Data Analytics/Module 1/Module Overview.md",
-    "📚 Data & Programming/🌟 Stage 1 - Programming & Data Fundamentals/04 The Data Scientist’s Toolbox/Module 1/Module Summary (PH).md",
-    "📚 Data & Programming/🌟 Stage 1 - Programming & Data Fundamentals/04 The Data Scientist’s Toolbox/Module 1/Module Summary.md",
-    "📚 Data & Programming/🌟 Stage 1 - Programming & Data Fundamentals/04 The Data Scientist’s Toolbox/Module 1/Section 5.md",
-    "📚 Data & Programming/🌟 Stage 1 - Programming & Data Fundamentals/04 The Data Scientist’s Toolbox/Module 1/Section 5 (PH).md",
-    "📚 Data & Programming/🌟 Stage 1 - Programming & Data Fundamentals/04 The Data Scientist’s Toolbox/Module 1/Module Overview.md",
-    "📚 Data & Programming/🌟 Stage 1 - Programming & Data Fundamentals/04 The Data Scientist’s Toolbox/Module 1/Section 1.md",
+    "📚 Data & Programming/Stage 1 - Data Fundamentals/2 - Introduction to Data Analytics/Module 1/Reflective Summary.md",
+    "📚 Data & Programming/Stage 1 - Data Fundamentals/2 - Introduction to Data Analytics/Module 1/Module Summary.md",
+    "📚 Data & Programming/Stage 1 - Data Fundamentals/2 - Introduction to Data Analytics/Module 1/Module Overview.md",
+    "📚 Data & Programming/Stage 1 - Data Fundamentals/4 - The Data Scientist’s Toolbox/Module 1/Reflective Summary.md",
+    "📚 Data & Programming/Stage 1 - Data Fundamentals/2 - Introduction to Data Analytics/Module 1/Module Summary (PH).md",
+    "📚 Data & Programming/Stage 1 - Data Fundamentals/1 - Introduction to Data Engineering/Course Overview & Outline.md",
+    "📚 Data & Programming/Stage 1 - Data Fundamentals/1 - Introduction to Data Engineering/Module 1/Section 2.md",
+    "📚 Data & Programming/Stage 1 - Data Fundamentals/1 - Introduction to Data Engineering/Module 1/Section 1.md",
+    "📚 Data & Programming/Stage 1 - Data Fundamentals/1 - Introduction to Data Engineering/Module 1/Module Summary.md",
+    "📚 Data & Programming/Stage 1 - Data Fundamentals/1 - Introduction to Data Engineering/Module 1/Module Overview.md",
+    "📚 Data & Programming/📚 Learning Roadmap.md",
+    "📚 Data & Programming/Untitled",
+    "📚 Data & Programming/Stage 1 - Data Fundamentals/1 - Introduction to Data Engineering/Module 1",
+    "📚 Data & Programming/Stage 1 - Data Fundamentals/2 - Introduction to Data Analytics/Module 1/Section 2.md",
+    "📚 Data & Programming/Stage 1 - Data Fundamentals/4 - The Data Scientist’s Toolbox/Module 1/Module Summary (PH).md",
+    "📚 Data & Programming/Stage 1 - Data Fundamentals/4 - The Data Scientist’s Toolbox/Module 1/Module Summary.md",
+    "📚 Data & Programming/Stage 1 - Data Fundamentals/4 - The Data Scientist’s Toolbox/Module 1/Section 5.md",
+    "📚 Data & Programming/Stage 1 - Data Fundamentals/4 - The Data Scientist’s Toolbox/Module 1/Section 5 (PH).md",
+    "📚 Data & Programming/Stage 1 - Data Fundamentals/4 - The Data Scientist’s Toolbox/Module 1/Module Overview.md",
+    "📚 Data & Programming/Stage 1 - Data Fundamentals/4 - The Data Scientist’s Toolbox/Module 1/Section 1.md",
     "Pasted image 20250218234017.png",
     "Pasted image 20250218233909.png",
     "Pasted image 20250218233747.png",
@@ -195,25 +199,22 @@
     "Pasted image 20250218233120.png",
     "Pasted image 20250218233240.png",
     "Pasted image 20250217195113.png",
-    "📚 Data & Programming/🌟 Stage 1 - Programming & Data Fundamentals/04 The Data Scientist’s Toolbox/Module 1/Section 4.md",
-    "📚 Data & Programming/🌟 Stage 1 - Programming & Data Fundamentals/04 The Data Scientist’s Toolbox/Module 1/Section 4 (PH).md",
-    "📚 Data & Programming/🌟 Stage 1 - Programming & Data Fundamentals/04 The Data Scientist’s Toolbox/Module 1/Section 3 (PH).md",
-    "📚 Data & Programming/🌟 Stage 1 - Programming & Data Fundamentals/04 The Data Scientist’s Toolbox/Module 1/Section 3.md",
-    "📚 Data & Programming/🌟 Stage 1 - Programming & Data Fundamentals/04 The Data Scientist’s Toolbox/Module 1/Section 2 (PH).md",
-    "📚 Data & Programming/🌟 Stage 1 - Programming & Data Fundamentals/04 The Data Scientist’s Toolbox/Module 1/Section 2.md",
-    "📚 Data & Programming/📚 Learning Roadmap.md",
-    "📚 Data & Programming/🌟 Stage 1 - Programming & Data Fundamentals/02 Introduction to Data Analytics/Module 1/Section 1 (PH).md",
-    "📚 Data & Programming/🌟 Stage 1 - Programming & Data Fundamentals/02 Introduction to Data Analytics/Module 1/Section 2 (PH).md",
-    "📚 Data & Programming/🌟 Stage 1 - Programming & Data Fundamentals/02 Introduction to Data Analytics/Module 1/Section 1.md",
+    "📚 Data & Programming/Stage 1 - Data Fundamentals/4 - The Data Scientist’s Toolbox/Module 1/Section 4.md",
+    "📚 Data & Programming/Stage 1 - Data Fundamentals/4 - The Data Scientist’s Toolbox/Module 1/Section 4 (PH).md",
+    "📚 Data & Programming/Stage 1 - Data Fundamentals/4 - The Data Scientist’s Toolbox/Module 1/Section 3 (PH).md",
+    "📚 Data & Programming/Stage 1 - Data Fundamentals/4 - The Data Scientist’s Toolbox/Module 1/Section 3.md",
+    "📚 Data & Programming/Stage 1 - Data Fundamentals/4 - The Data Scientist’s Toolbox/Module 1/Section 2 (PH).md",
+    "📚 Data & Programming/Stage 1 - Data Fundamentals/4 - The Data Scientist’s Toolbox/Module 1/Section 2.md",
+    "📚 Data & Programming/Stage 1 - Data Fundamentals/2 - Introduction to Data Analytics/Module 1/Section 1 (PH).md",
+    "📚 Data & Programming/Stage 1 - Data Fundamentals/2 - Introduction to Data Analytics/Module 1/Section 2 (PH).md",
     "Pasted image 20250217195144.png",
-    "📚 Data & Programming/🌟 Stage 1 - Programming & Data Fundamentals/04 The Data Scientist’s Toolbox/Module 1",
-    "📚 Data & Programming/📊 Course Table by Program.md",
-    "📚 Data & Programming/🌟 Stage 1 - Programming & Data Fundamentals/03",
-    "📚 Data & Programming/🌟 Stage 1 - Programming & Data Fundamentals/01 Introduction to Data Engineering",
-    "📚 Data & Programming/🌟 Stage 1 - Programming & Data Fundamentals",
-    "📚 Data & Programming/🌟 Stage 1 - Programming & Data Fundamentals/02 Introduction to Data Analytics/Module 1",
-    "📚 Data & Programming/🌟 Stage 1 - Programming & Data Fundamentals/04 The Data Scientist’s Toolbox",
-    "📚 Data & Programming/🌟 Stage 1 - Programming & Data Fundamentals/02 Introduction to Data Analytics",
+    "📚 Data & Programming/Stage 1 - Data Fundamentals/4 - The Data Scientist’s Toolbox/Module 1",
+    "📚 Data & Programming/Stage 1 - Data Fundamentals/3 - What is Data Science",
+    "📚 Data & Programming/Stage 1 - Data Fundamentals/1 - Introduction to Data Engineering",
+    "📚 Data & Programming/Stage 1 - Data Fundamentals",
+    "📚 Data & Programming/Stage 1 - Data Fundamentals/2 - Introduction to Data Analytics/Module 1",
+    "📚 Data & Programming/Stage 1 - Data Fundamentals/4 - The Data Scientist’s Toolbox",
+    "📚 Data & Programming/Stage 1 - Data Fundamentals/2 - Introduction to Data Analytics",
     "📚 Data & Programming"
   ]
 }
